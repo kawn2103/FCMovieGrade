@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438525560603",
+    "project_id": "fcmoviewreview",
+    "storage_bucket": "fcmoviewreview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438525560603:android:fe12a88e53e5236d4db5be",
+        "android_client_info": {
+          "package_name": "kst.app.fcmoviegrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438525560603-uqnkmatf74lbq8tukoklu3cpp4ue43ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCg9iK8aJEof4VqeZMQ6CBpoX5wqfvFrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438525560603-uqnkmatf74lbq8tukoklu3cpp4ue43ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
